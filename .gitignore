@@ -1,7 +1,0 @@
-.gitignore
-/out/
-/.idea/
-*.iml
-*.iws
-/nbproject/
-/dist/web-files/
